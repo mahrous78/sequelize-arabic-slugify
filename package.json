@@ -1,5 +1,5 @@
 {
-  "name": "sequelize-slugify",
+  "name": "sequelize-arabic-slugify",
   "description": "Add slugs to sequelize models",
   "version": "0.9.1",
   "author": "Jarrod Connolly <jarrod@nestedquotes.ca>",
